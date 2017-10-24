@@ -15,7 +15,7 @@ For the fourth assignment, students formed groups and competed against one anoth
 # "Turing Complete" team Pacman Agent
 Note: UC Berkeley requests that code solutions to these assignments not be published, and so I have included below only a summary of the strategy our Pacman agent employed.
 ## Approach
-Our agent uses a goal-based heuristic search approach to control its behaviour.
+Our agent uses a goal-based search approach to control its behaviour.
 
 This means that our agent calculates a set of goals based on the current state of the board (e.g., location of food), and then sets about trying to reach them. Using a heuristic A\* approach, our agent looks finds the most favourable path to one of its goals. Depending on the heuristic applied, this may not actually be the shortest path - a shorter path may be avoided if it would take the agent through unfavourable terrain or put it at risk.
 
