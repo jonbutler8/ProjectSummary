@@ -7,7 +7,7 @@ The University of California Berkeley's computer science department provides a s
 
 At RMIT in 2017, our introductory AI course used these projects as part of assessment. Each student was required to complete their own individual implementations of three projects: [tree search](http://inst.eecs.berkeley.edu/~cs188/pacman/search.html), [multi-agent (adversarial) search](http://inst.eecs.berkeley.edu/~cs188/pacman/multiagent.html) and [reinforcement learning](http://inst.eecs.berkeley.edu/~cs188/pacman/reinforcement.html). 
 
-For the fourth assignment, students formed groups and competed against one another by creating Pacman agents to participate in a [capture the flag contest](http://ai.berkeley.edu/contest.html). In this final assignment, our team placed 3rd out of 30 student teams and was chosen for participation in an upcoming intra-university tournament between RMIT and University of Melbourne.
+For the fourth assignment, students formed groups and competed against one another by creating Pacman agents to participate in a [capture the flag contest](http://ai.berkeley.edu/contest.html). In this final assignment, our team placed 3rd out of 30 student teams and was chosen for participation in an upcoming inter-university tournament between RMIT and University of Melbourne.
 
 
 
